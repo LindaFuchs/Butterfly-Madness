@@ -6,7 +6,7 @@ using UnityStandardAssets.CrossPlatformInput;
 public class ButterMovement : MonoBehaviour
 {
     [SerializeField] float forwardBackSpeed = 5f;
-    [SerializeField] float strafeSpeed = 5f;
+    // [SerializeField] float strafeSpeed = 5f;
     [SerializeField] float jumpSpeed = 5f;
 
     public float turnSmoothTime = 0.2f;
